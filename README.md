@@ -334,6 +334,4 @@ The biggest surprise: how much complexity lives inside "just copy a file from on
 **Made by [Harleen Khanuja](https://www.linkedin.com/in/harleenkhanuja/)**
 
 
-*MIT License — free to use for educational purposes.*
-
 </div>
