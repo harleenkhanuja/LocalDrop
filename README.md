@@ -11,7 +11,7 @@
 ╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝     
 </pre>
 
-### ✦ Browser-based LAN file sharing — no client software, no cloud, no limits ✦
+### ✦ Browser-based LAN file sharing ✦
 
 <br/>
 
